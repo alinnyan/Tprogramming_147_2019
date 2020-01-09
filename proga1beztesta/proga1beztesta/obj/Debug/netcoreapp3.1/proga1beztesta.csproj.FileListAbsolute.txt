@@ -1,0 +1,11 @@
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\bin\Debug\netcoreapp3.1\proga1beztesta.exe
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\bin\Debug\netcoreapp3.1\proga1beztesta.deps.json
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\bin\Debug\netcoreapp3.1\proga1beztesta.runtimeconfig.json
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\bin\Debug\netcoreapp3.1\proga1beztesta.runtimeconfig.dev.json
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\bin\Debug\netcoreapp3.1\proga1beztesta.dll
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\bin\Debug\netcoreapp3.1\proga1beztesta.pdb
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\obj\Debug\netcoreapp3.1\proga1beztesta.csprojAssemblyReference.cache
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\obj\Debug\netcoreapp3.1\proga1beztesta.AssemblyInfoInputs.cache
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\obj\Debug\netcoreapp3.1\proga1beztesta.AssemblyInfo.cs
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\obj\Debug\netcoreapp3.1\proga1beztesta.dll
+C:\Users\Gift\source\repos\proga1beztesta\proga1beztesta\obj\Debug\netcoreapp3.1\proga1beztesta.pdb
