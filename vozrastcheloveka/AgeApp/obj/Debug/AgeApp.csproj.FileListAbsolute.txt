@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\AgeApp\AgeApp\bin\Debug\AgeApp.exe.config
+C:\Users\User\source\repos\AgeApp\AgeApp\bin\Debug\AgeApp.exe
+C:\Users\User\source\repos\AgeApp\AgeApp\bin\Debug\AgeApp.pdb
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.MainForm.resources
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.Properties.Resources.resources
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.exe
+C:\Users\User\source\repos\AgeApp\AgeApp\obj\Debug\AgeApp.pdb
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\bin\Debug\AgeApp.exe.config
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\bin\Debug\AgeApp.exe
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\bin\Debug\AgeApp.pdb
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.MainForm.resources
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.Properties.Resources.resources
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.exe
+C:\Users\User\Desktop\Лабы для любимой\AgeApp\AgeApp\obj\Debug\AgeApp.pdb
+C:\Users\Gift\Desktop\AgeApp\AgeApp\bin\Debug\AgeApp.exe.config
+C:\Users\Gift\Desktop\AgeApp\AgeApp\bin\Debug\AgeApp.exe
+C:\Users\Gift\Desktop\AgeApp\AgeApp\bin\Debug\AgeApp.pdb
+C:\Users\Gift\Desktop\AgeApp\AgeApp\obj\Debug\AgeApp.csprojAssemblyReference.cache
+C:\Users\Gift\Desktop\AgeApp\AgeApp\obj\Debug\AgeApp.MainForm.resources
+C:\Users\Gift\Desktop\AgeApp\AgeApp\obj\Debug\AgeApp.Properties.Resources.resources
+C:\Users\Gift\Desktop\AgeApp\AgeApp\obj\Debug\AgeApp.csproj.GenerateResource.cache
+C:\Users\Gift\Desktop\AgeApp\AgeApp\obj\Debug\AgeApp.exe
+C:\Users\Gift\Desktop\AgeApp\AgeApp\obj\Debug\AgeApp.pdb
