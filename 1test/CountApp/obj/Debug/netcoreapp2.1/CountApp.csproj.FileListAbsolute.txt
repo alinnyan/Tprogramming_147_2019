@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CountApp\CountApp\bin\Debug\netcoreapp2.1\CountApp.deps.json
+C:\Users\User\source\repos\CountApp\CountApp\bin\Debug\netcoreapp2.1\CountApp.runtimeconfig.json
+C:\Users\User\source\repos\CountApp\CountApp\bin\Debug\netcoreapp2.1\CountApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\CountApp\CountApp\bin\Debug\netcoreapp2.1\CountApp.dll
+C:\Users\User\source\repos\CountApp\CountApp\bin\Debug\netcoreapp2.1\CountApp.pdb
+C:\Users\User\source\repos\CountApp\CountApp\obj\Debug\netcoreapp2.1\CountApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CountApp\CountApp\obj\Debug\netcoreapp2.1\CountApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CountApp\CountApp\obj\Debug\netcoreapp2.1\CountApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CountApp\CountApp\obj\Debug\netcoreapp2.1\CountApp.AssemblyInfo.cs
+C:\Users\User\source\repos\CountApp\CountApp\obj\Debug\netcoreapp2.1\CountApp.dll
+C:\Users\User\source\repos\CountApp\CountApp\obj\Debug\netcoreapp2.1\CountApp.pdb

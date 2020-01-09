@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CountApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CountApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CountApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountApp/1.0.0": {
+      "type": "project",
+      "path": "../CountApp/CountApp.csproj",
+      "msbuildProject": "../CountApp/CountApp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "CountApp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gift\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gift\\Desktop\\CountApp\\CourseApp.Tests\\CourseApp.Tests.csproj",
+      "projectName": "CourseApp.Tests",
+      "projectPath": "C:\\Users\\Gift\\Desktop\\CountApp\\CourseApp.Tests\\CourseApp.Tests.csproj",
+      "packagesPath": "C:\\Users\\Gift\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gift\\Desktop\\CountApp\\CourseApp.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Gift\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "C:\\Users\\Gift\\Desktop\\CountApp\\CountApp\\CountApp.csproj": {
+              "projectPath": "C:\\Users\\Gift\\Desktop\\CountApp\\CountApp\\CountApp.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  }
+}

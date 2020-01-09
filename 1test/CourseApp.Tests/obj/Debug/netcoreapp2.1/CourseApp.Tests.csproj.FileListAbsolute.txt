@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CourseApp.Tests.deps.json
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CourseApp.Tests.runtimeconfig.json
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CourseApp.Tests.runtimeconfig.dev.json
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CourseApp.Tests.dll
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CourseApp.Tests.pdb
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CountApp.dll
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\bin\Debug\netcoreapp2.1\CountApp.pdb
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.AssemblyInfo.cs
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.csproj.CopyComplete
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.dll
+C:\Users\User\source\repos\CountApp\CourseApp.Tests\obj\Debug\netcoreapp2.1\CourseApp.Tests.pdb
