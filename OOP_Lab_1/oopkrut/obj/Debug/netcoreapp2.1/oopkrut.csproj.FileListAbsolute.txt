@@ -1,0 +1,10 @@
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\oopkrut.deps.json
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\oopkrut.runtimeconfig.json
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\oopkrut.runtimeconfig.dev.json
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\oopkrut.dll
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\oopkrut.pdb
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\oopkrut.csprojAssemblyReference.cache
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\oopkrut.AssemblyInfoInputs.cache
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\oopkrut.AssemblyInfo.cs
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\oopkrut.dll
+C:\Users\Gift\Desktop\проги алёна\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\oopkrut.pdb

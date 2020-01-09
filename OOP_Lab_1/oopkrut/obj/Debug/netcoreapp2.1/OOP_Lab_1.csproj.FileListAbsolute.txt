@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.deps.json
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.runtimeconfig.json
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.dll
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.pdb
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.dll
+C:\Users\User\source\repos\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.pdb
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.deps.json
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.runtimeconfig.json
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.dll
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\bin\Debug\netcoreapp2.1\OOP_Lab_1.pdb
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.AssemblyInfo.cs
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.dll
+C:\Users\User\Desktop\Лабы для любимой\OOP_Lab_1\OOP_Lab_1\obj\Debug\netcoreapp2.1\OOP_Lab_1.pdb
