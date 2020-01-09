@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.deps.json
+C:\Users\User\source\repos\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.runtimeconfig.json
+C:\Users\User\source\repos\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.runtimeconfig.dev.json
+C:\Users\User\source\repos\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.dll
+C:\Users\User\source\repos\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.pdb
+C:\Users\User\source\repos\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.AssemblyInfo.cs
+C:\Users\User\source\repos\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.dll
+C:\Users\User\source\repos\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.pdb
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.deps.json
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.runtimeconfig.json
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.runtimeconfig.dev.json
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.dll
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\bin\Debug\netcoreapp2.1\AntonRPG.pdb
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.AssemblyInfo.cs
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.dll
+C:\Users\User\Desktop\Лабы для любимой v2\AntonRPG\AntonRPG\obj\Debug\netcoreapp2.1\AntonRPG.pdb
